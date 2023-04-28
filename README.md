@@ -6,4 +6,4 @@
   And Like To Develop Frameworks For The Dev Community To Contribur
 
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,lua)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,lua,github)](https://skillicons.dev)
