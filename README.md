@@ -6,7 +6,7 @@
   And Like To Develop Frameworks For The Dev Community To Contribute And Generally For Fun,
 </h5>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,ts,java,lua,github,materialui,py,react,vscode,linux)](https://skillicons.dev)
