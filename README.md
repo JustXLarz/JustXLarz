@@ -9,4 +9,4 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,ts,lua,nodejs,cpp,cs,java,react,materialui,py,vscode,github,linux)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,ts,lua,nodejs,cpp,cs,java,react,py,vscode,github,linux)](https://skills.thijs.gg)
